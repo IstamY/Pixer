@@ -93,7 +93,7 @@ nav ul li:last-child {
 
 .btn:active {
     color: white;
-    border: rgba(0, 186, 252, 0.6);
+    border: 3px solid rgba(0, 186, 252, 0.6);
     background: rgba(0, 186, 252, 0.6);
 }
 
